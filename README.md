@@ -1,2 +1,2 @@
-# PDE.md
-PDE
+# Mathematics.md
+Math repo
