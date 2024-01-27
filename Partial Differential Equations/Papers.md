@@ -1,10 +1,17 @@
 [Suggestion from ChatGPT: 1st grade of MS can read]
 
-Solving and Learning Nonlinear PDEs with Gaussian Processes: This paper explores the use of Gaussian processes and kernel-based methods in solving nonlinear PDEs, an area that has seen considerable growth due to its applications in various engineering fields. The paper discusses both theoretical and practical aspects, making it a good read for understanding modern approaches to PDEs (ar5iv.org).
+### Solving and Learning Nonlinear PDEs with Gaussian Processes
 
 <https://www.sciencedirect.com/science/article/pii/S0021999121005635>
 
 <https://www.youtube.com/watch?v=A09HWjs22ck>
+
+Solving and Learning Nonlinear PDEs with Gaussian Processes: This paper explores the use of Gaussian processes and kernel-based methods in solving nonlinear PDEs, an area that has seen considerable growth due to its applications in various engineering fields. The paper discusses both theoretical and practical aspects, making it a good read for understanding modern approaches to PDEs (ar5iv.org).
+
+- Design a Gaussian Processes collocation method for solving nonlinear PDEs
+-
+-
+
 
 Analytical and Numerical Methods for Linear and Nonlinear Analysis of Structures at Macro, Micro and Nano Scale: This special issue from the journal "Mathematics" could provide a range of articles that discuss both linear and nonlinear PDEs, with a focus on their applications in different scales of structures. It's a valuable resource for understanding the diverse applications and methodologies used in the field of PDEs (mdpi.com).
 
