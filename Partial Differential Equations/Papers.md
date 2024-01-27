@@ -4,6 +4,8 @@ Solving and Learning Nonlinear PDEs with Gaussian Processes: This paper explores
 
 <https://www.sciencedirect.com/science/article/pii/S0021999121005635>
 
+<https://www.youtube.com/watch?v=A09HWjs22ck>
+
 Analytical and Numerical Methods for Linear and Nonlinear Analysis of Structures at Macro, Micro and Nano Scale: This special issue from the journal "Mathematics" could provide a range of articles that discuss both linear and nonlinear PDEs, with a focus on their applications in different scales of structures. It's a valuable resource for understanding the diverse applications and methodologies used in the field of PDEs (mdpi.com).
 
 Advances in Nonlinear Analysis: This journal often publishes papers that address significant problems in both pure and applied nonlinear analysis. It's a great source for keeping up with the latest advancements in the field and for reading high-quality research articles that are suitable for graduate students (degruyter.com).
